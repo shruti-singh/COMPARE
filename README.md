@@ -2,7 +2,8 @@
 
 <br/>
 
-![alt text](figures/taxonomy.png "Taxonomy of Comparison Discussions in Peer Reviews" | width=100)
+<img src="https://github.com/shruti-singh/COMPARE/blob/main/figures/taxonomy.png" alt="Taxonomy of Comparison Discussions in Peer Reviews" width="388" height="302">
+
 <br/>
 
 ## Exemplar sentences for each aspect and subcategory
