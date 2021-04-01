@@ -2,7 +2,7 @@
 
 <br/>
 
-![alt text](figures/taxonomy.png "Taxonomy of Comparison Discussions in Peer Reviews")
+![alt text](figures/taxonomy.png "Taxonomy of Comparison Discussions in Peer Reviews"){ width=40% }
 
 <br/>
 
