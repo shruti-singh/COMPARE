@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://github.com/shruti-singh/COMPARE/blob/main/figures/taxonomy.png" alt="Taxonomy of Comparison Discussions in Peer Reviews" width="388" height="302">
+<img src="https://github.com/shruti-singh/COMPARE/blob/main/figures/taxonomy.png" alt="Taxonomy of Comparison Discussions in Peer Reviews" width="582" height="453">
 
 <br/>
 
