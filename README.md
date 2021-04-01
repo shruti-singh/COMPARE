@@ -4,6 +4,8 @@
 
 ![alt text](figures/taxonomy.png "Taxonomy of Comparison Discussions in Peer Reviews")
 
+<br/>
+
 ## Exemplar sentences for each aspect and subcategory
 |Sentence                                                                                                                                                                                                      |Aspect  |Subcategory|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------|
