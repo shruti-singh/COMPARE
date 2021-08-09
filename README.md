@@ -35,7 +35,7 @@ The following pretrained models are available in the models directory:
 <br/>
 
 ### Using the Pretrained models
-Download the pretrained models from this [link] (https://drive.google.com/drive/folders/1xqwI764nAw3wIXUN-wnSwlRVodzjn-QM?usp=sharing) and place inside models directory.
+Download the pretrained models from this [link](https://drive.google.com/drive/folders/1xqwI764nAw3wIXUN-wnSwlRVodzjn-QM?usp=sharing) and place inside models directory.
 
 > import torch  
 > from transformers import AutoTokenizer, AutoModel  
