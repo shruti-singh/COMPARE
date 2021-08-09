@@ -35,8 +35,10 @@ The following pretrained models are available in the models directory:
 <br/>
 
 ### Using the Pretrained models
-> import torch 
-> from transformers import AutoTokenizer, AutoModel 
+Download the pretrained models from this [link] (https://drive.google.com/drive/folders/1xqwI764nAw3wIXUN-wnSwlRVodzjn-QM?usp=sharing) and place inside models directory.
+
+> import torch  
+> from transformers import AutoTokenizer, AutoModel  
 > 
-> tokenizer = AutoTokenizer.from_pretrained("./models/MLRoBERTa/") 
-> model = AutoModel.from_pretrained("./models/MLRoBERTa/") 
+> tokenizer = AutoTokenizer.from_pretrained("./models/MLRoBERTa/")  
+> model = AutoModel.from_pretrained("./models/MLRoBERTa/")  
