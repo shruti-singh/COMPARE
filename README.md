@@ -1,4 +1,7 @@
-# COMPARE
+# COMPARE: A Taxonomy and Dataset of Comparison Discussions in Peer Reviews
+
+
+This is the repository of our work on taxonomy and dataset of meaningful comparison discussions in peer review texts. [Paper](https://ieeexplore.ieee.org/document/9651878)
 
 
 ## Downloading the models from huggingface
@@ -16,6 +19,8 @@ tok = AutoTokenizer.from_pretrained('shrutisingh/MLEntityRoBERTa')
 model = AutoModel.from_pretrained('shrutisingh/MLEntityRoBERTa')
 ```
 
+
+## Taxonomy of Meaningful Comparison in Peer Reviews
 
 <br/>
 
