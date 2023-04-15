@@ -1,5 +1,22 @@
 # COMPARE
 
+
+## Downloading the models from huggingface
+### MLRoBERTa 
+```
+from transformers import AutoTokenizer, AutoModel
+tok = AutoTokenizer.from_pretrained('shrutisingh/MLRoBERTa')
+model = AutoModel.from_pretrained('shrutisingh/MLRoBERTa')
+```
+
+### MLEntityRoBERTa 
+```
+from transformers import AutoTokenizer, AutoModel
+tok = AutoTokenizer.from_pretrained('shrutisingh/MLEntityRoBERTa')
+model = AutoModel.from_pretrained('shrutisingh/MLEntityRoBERTa')
+```
+
+
 <br/>
 
 <img src="https://github.com/shruti-singh/COMPARE/blob/main/figures/taxonomy.png" alt="Taxonomy of Comparison Discussions in Peer Reviews" width="582" height="453">
@@ -42,3 +59,16 @@ Download the pretrained models from this [link](https://drive.google.com/drive/f
 > 
 > tokenizer = AutoTokenizer.from_pretrained("./models/MLRoBERTa/")  
 > model = AutoModel.from_pretrained("./models/MLRoBERTa/")  
+
+
+### Citation:
+```
+@inproceedings{singh2021compare,
+  title={COMPARE: a taxonomy and dataset of comparison discussions in peer reviews},
+  author={Singh, Shruti and Singh, Mayank and Goyal, Pawan},
+  booktitle={2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+  pages={238--241},
+  year={2021},
+  organization={IEEE}
+}
+```
